@@ -1,0 +1,12 @@
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\bin\Debug\BLOOD BANK MANAGEMENT SYSTEM.exe.config
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD BANK MANAGEMENT SYSTEM.csprojResolveAssemblyReference.cache
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD_BANK_MANAGEMENT_SYSTEM.MANAGER.resources
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD_BANK_MANAGEMENT_SYSTEM.Properties.Resources.resources
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD BANK MANAGEMENT SYSTEM.csproj.GenerateResource.Cache
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\bin\Debug\BLOOD BANK MANAGEMENT SYSTEM.exe
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\bin\Debug\BLOOD BANK MANAGEMENT SYSTEM.pdb
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD BANK MANAGEMENT SYSTEM.exe
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD BANK MANAGEMENT SYSTEM.pdb
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD_BANK_MANAGEMENT_SYSTEM.CLERK.resources
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD_BANK_MANAGEMENT_SYSTEM.LAB.resources
+c:\users\saifali\documents\visual studio 2013\Projects\BLOOD BANK MANAGEMENT SYSTEM\BLOOD BANK MANAGEMENT SYSTEM\obj\Debug\BLOOD_BANK_MANAGEMENT_SYSTEM.LOGIN.resources
